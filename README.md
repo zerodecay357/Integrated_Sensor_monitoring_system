@@ -12,6 +12,8 @@ This project integrates multiple sensors on Arduino to create a **real-time moni
 The system also incorporates **error minimisation mechanisms** such as weighted averaging and (optionally) a Kalman filter to improve sensor accuracy.
 
 ---
+https://youtu.be/kZNPnzwuvWw refer to this for live demo.
+
 
 ## Code Overview
 
