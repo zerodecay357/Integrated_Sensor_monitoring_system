@@ -142,4 +142,4 @@ This filter can wrap around `ultrasensor()` or `acclerometer()` outputs.
 
 ## Authors
 
-* **Shivanshu Aryan**  (IIT Delhi, COL106 Assignment)
+* **Shivanshu Aryan**  (IIT Delhi, Robotics Club )
